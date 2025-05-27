@@ -33,5 +33,4 @@ o	Run all defined tests (unit and integration tests).
 o	Package the application into an executable JAR file (hotel-booking-springboot-0.0.1-SNAPSHOT.jar) in the target directory.
 5.	Run the Application: After a successful build, you can run the Spring Boot application using the generated JAR file:
 6.	java -jar target/hotel-booking-springboot-0.0.1-SNAPSHOT.jar
-![image](https://github.com/user-attachments/assets/1959a25d-d91e-40de-b9d1-5648b9b86d53)
 
