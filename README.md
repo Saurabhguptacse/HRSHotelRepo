@@ -1,4 +1,5 @@
 **Hotel Booking Application: Codebase Explanation and Usage**
+
 This document provides an overview of the Hotel Booking Spring Boot application, detailing its architecture, the purpose of each component, and instructions on how to build, run, and interact with the application.
 1. Application Overview
 The Hotel Booking application is a simple RESTful API built with Spring Boot, designed to manage hotel reservations. It follows a layered architecture, which promotes separation of concerns, making the codebase modular, maintainable, and scalable.
